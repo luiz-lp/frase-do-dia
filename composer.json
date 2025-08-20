@@ -1,0 +1,7 @@
+{
+  "name": "luiz-lp/frase-do-dia",
+  "description": "Projeto 'Frase do Dia' com fonte local (JSON), fallback para APIs públicas, PHP puro, integração Laravel e demos em Vanilla JS e jQuery.",
+  "license": "MIT",
+  "autoload": { "psr-4": { "FraseDoDia\\": "src/" } },
+  "require": {}
+}
