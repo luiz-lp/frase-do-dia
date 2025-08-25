@@ -18,6 +18,7 @@ Projeto completo para exibir uma **Frase do Dia** com:
 frase-do-dia/
 ├─ data/
 │  └─ quotes.json
+│  └─ quotes_bible.json
 ├─ cache/
 │  └─ .gitkeep
 ├─ src/
